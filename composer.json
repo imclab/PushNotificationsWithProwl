@@ -1,0 +1,10 @@
+{
+    "require": {
+        "zendframework/zend-log": "2.2.*",
+        "xenji/ProwlPHP": ">=1.0.2"
+    },
+    "autoload": {
+         "psr-0": { "SitePoint": "include" }
+    }
+
+}
